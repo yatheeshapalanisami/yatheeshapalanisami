@@ -1,16 +1,17 @@
-### Hi there 👋
+# Yatheesha Palanisami
+👋 Hi, I’m Yatheesha Palanisami
 
-<!--
-**yatheeshapalanisami/yatheeshapalanisami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I am Data Analyst Intern and Team Lead at Abhyaz, Chennai
 
-Here are some ideas to get you started:
+🌱 Global Math Expert- at Cuemath Global Math Expert and Worked closely with Analytical Team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently pursuing a course on Complete Machine Learning & Data Science Bootcamp 2023
+
+💞️ I love to learning new things
+
+💞️ I’m looking to collaborate on the projects related to Data Science
+
+📫 How to reach me - p.yatheesha@gmail.com
+
+💬 Kaggle Account:https://www.kaggle.com/yatheeshapalanisami
+
