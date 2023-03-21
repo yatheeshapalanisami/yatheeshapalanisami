@@ -7,7 +7,7 @@
 
 🌱 I’m currently pursuing a course on Complete Machine Learning & Data Science Bootcamp 2023
 
-💞️ I love to learning new things
+💞️ I love to learning and Explore new things(Tools and Technologies in AI/ML)
 
 💞️ I’m looking to collaborate on the projects related to Data Science
 
